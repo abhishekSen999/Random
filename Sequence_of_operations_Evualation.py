@@ -13,7 +13,7 @@ Created on Thu Oct  4 00:04:26 2018
 
 """
 import sys
-class Evualation(object):
+class Evaluation( object):
     """
     This class is used to implement a series of mathematical equations taken input as string containing variables and outputs the variables 
     and their values after the series of operations are over 
@@ -124,7 +124,7 @@ def main():
     for i in range(0,len(sequenceOfOperations)):
         sequenceOfOperations[i]=sequenceOfOperations[i].strip()
         
-    obj=Evualation()
+    obj=Evaluation()
     obj.checkEquations(sequenceOfOperations)
     print("output")
     print(obj.bufferVariables)
