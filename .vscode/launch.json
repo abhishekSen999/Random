@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinkedListQuickSort",
+            "request": "launch",
+            "mainClass": "linkedlist.LinkedListQuickSort",
+            "projectName": "Random_3a59af91"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CreateList",
+            "request": "launch",
+            "mainClass": "linkedlist.CreateList",
+            "projectName": "Random_3a59af91"
+        }
+    ]
+}
