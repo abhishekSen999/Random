@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "/home/abhishek/GIT/Random"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"inttypes.h": "c"
+		}
+	}
+}

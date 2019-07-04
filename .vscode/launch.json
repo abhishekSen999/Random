@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - NoOf2InRange",
+            "request": "launch",
+            "mainClass": "NoOf2InRange",
+            "projectName": "Random_3a59af91"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CreateBinaryTree",
+            "request": "launch",
+            "mainClass": "binarytree.CreateBinaryTree",
+            "projectName": "Random_3a59af91"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinaryTreeToCircularDoublyLinkedList",
+            "request": "launch",
+            "mainClass": "binarytree.BinaryTreeToCircularDoublyLinkedList",
+            "projectName": "Random_3a59af91"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CreateBinaryTree",
+            "request": "launch",
+            "mainClass": "linkedlist.CreateBinaryTree",
+            "projectName": "Random_3a59af91"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LinkedListQuickSort",
             "request": "launch",
             "mainClass": "linkedlist.LinkedListQuickSort",
