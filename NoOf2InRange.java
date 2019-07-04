@@ -4,7 +4,7 @@ public class NoOf2InRange
 {
     public static void main(String args[])throws IOException
     {
-        String number="102";
+        String number="1400";
 
         int[] n= new int[number.length()];// {2,   0,  1};
         int[] pow=new int[number.length()];//{1, 10, 100};
