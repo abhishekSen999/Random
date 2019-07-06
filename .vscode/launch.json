@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - FoldableBinaryTree",
+            "request": "launch",
+            "mainClass": "binarytree.FoldableBinaryTree",
+            "projectName": "Random_3a59af91"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MaxMin",
+            "request": "launch",
+            "mainClass": "MaxMin",
+            "projectName": "Random_3a59af91"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - NoOf2InRange",
             "request": "launch",
             "mainClass": "NoOf2InRange",
