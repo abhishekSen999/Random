@@ -1,60 +1,48 @@
 {
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - FoldableBinaryTree",
+            "name": "CodeLens (Launch) - NodesAtDistanceFromAnyNode",
             "request": "launch",
-            "mainClass": "binarytree.FoldableBinaryTree",
+            "mainClass": "binarytree.NodesAtDistanceFromAnyNode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DutchNationalFlag",
+            "request": "launch",
+            "mainClass": "DutchNationalFlag",
             "projectName": "Random_3a59af91"
         },
         {
             "type": "java",
-            "name": "CodeLens (Launch) - MaxMin",
+            "name": "CodeLens (Launch) - NodesAtDistanceFromAnyNode",
             "request": "launch",
-            "mainClass": "MaxMin",
+            "mainClass": "binarytree.NodesAtDistanceFromAnyNode",
             "projectName": "Random_3a59af91"
         },
         {
             "type": "java",
-            "name": "CodeLens (Launch) - NoOf2InRange",
+            "name": "CodeLens (Launch) - DistanceLightTravels",
             "request": "launch",
-            "mainClass": "NoOf2InRange",
+            "mainClass": "DistanceLightTravels",
             "projectName": "Random_3a59af91"
         },
         {
             "type": "java",
-            "name": "CodeLens (Launch) - CreateBinaryTree",
+            "name": "CodeLens (Launch) - SpiralBinaryTree",
             "request": "launch",
-            "mainClass": "binarytree.CreateBinaryTree",
+            "mainClass": "SpiralBinaryTree",
             "projectName": "Random_3a59af91"
         },
         {
             "type": "java",
-            "name": "CodeLens (Launch) - BinaryTreeToCircularDoublyLinkedList",
+            "name": "Debug (Launch) - Current File",
             "request": "launch",
-            "mainClass": "binarytree.BinaryTreeToCircularDoublyLinkedList",
-            "projectName": "Random_3a59af91"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - CreateBinaryTree",
-            "request": "launch",
-            "mainClass": "linkedlist.CreateBinaryTree",
-            "projectName": "Random_3a59af91"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - LinkedListQuickSort",
-            "request": "launch",
-            "mainClass": "linkedlist.LinkedListQuickSort",
-            "projectName": "Random_3a59af91"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - CreateList",
-            "request": "launch",
-            "mainClass": "linkedlist.CreateList",
-            "projectName": "Random_3a59af91"
+            "mainClass": "${file}"
         }
     ]
 }

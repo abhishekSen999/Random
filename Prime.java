@@ -28,9 +28,9 @@ class Prime
 	
 	public static void main(String args[]) throws IOException
 	{
-        StringBuilder s = new StringBuilder("");
-		BufferedReader buf=new BufferedReader(new InputStreamReader(System.in));
-        // System.out.print("enter the number: ");
+        // StringBuilder s = new StringBuilder("");
+		// BufferedReader buf=new BufferedReader(new InputStreamReader(System.in));
+        // // System.out.print("enter the number: ");
         // String Line = buf.readLine();
         // while(true) 
         // {
