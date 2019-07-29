@@ -6,6 +6,54 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SmallestBitManipulation",
+            "request": "launch",
+            "mainClass": "SmallestBitManipulation"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AbsoluteBitManipulation",
+            "request": "launch",
+            "mainClass": "AbsoluteBitManipulation"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestShiftOperators",
+            "request": "launch",
+            "mainClass": "TestShiftOperators"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MultiplicationBitManipulation",
+            "request": "launch",
+            "mainClass": "MultiplicationBitManipulation"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MultiplicationBitMannipulation",
+            "request": "launch",
+            "mainClass": "MultiplicationBitMannipulation"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FrequecyOfNumberBitManipulation",
+            "request": "launch",
+            "mainClass": "FrequecyOfNumberBitManipulation"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ADD_XOR",
+            "request": "launch",
+            "mainClass": "ADD_XOR"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CreateBinaryTree",
+            "request": "launch",
+            "mainClass": "binarytree.CreateBinaryTree"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - NodesAtDistanceFromAnyNode",
             "request": "launch",
             "mainClass": "binarytree.NodesAtDistanceFromAnyNode"

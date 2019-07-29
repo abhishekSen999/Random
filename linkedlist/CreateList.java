@@ -19,19 +19,12 @@ public class CreateList{
         
         list.printList();
     }
-    static LinkedList create(){
+    static LinkedList create(int arr[]){
         LinkedList list= new LinkedList();
-        list.push(12);
-        list.push(3);
-        list.push(10);
-        list.push(5);
-        list.push(8);
-        list.push(2);
-        list.push(4);
-        list.push(1);
-        list.push(7);
-        list.push(6);
-        list.push(11);
+        for(int i=0;i<arr.length;i++)
+        {
+            list.push(arr[i]);
+        }
         return list;
     }
 }
