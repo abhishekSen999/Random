@@ -6,6 +6,36 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MedianQuery",
+            "request": "launch",
+            "mainClass": "MedianQuery"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InterleavingString",
+            "request": "launch",
+            "mainClass": "InterleavingString"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AddBitManipulation",
+            "request": "launch",
+            "mainClass": "AddBitManipulation"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GFG",
+            "request": "launch",
+            "mainClass": "GFG"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - KNodeReversal",
+            "request": "launch",
+            "mainClass": "KNodeReversal"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SmallestBitManipulation",
             "request": "launch",
             "mainClass": "SmallestBitManipulation"

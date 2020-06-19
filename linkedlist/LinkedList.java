@@ -48,6 +48,7 @@ public class LinkedList
     void printList()
     {
         Node iterator=head;
+        if(iterator==null)return;
         while(iterator.next!=null){
             System.out.print("["+iterator.key+"] -> ");
             iterator=iterator.next;
